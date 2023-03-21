@@ -1,0 +1,27 @@
+.nav-dropdown ul {
+    background-color: white;
+}
+.nav-dropdown li {
+    color: black;
+    opacity: 1;
+}
+
+.nav-dropdown  {
+opacity: 0.8;
+}
+
+
+.nav-font {
+    text-decoration: none;
+    color: '#000' !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Grotesque';
+    width: 110px;
+    cursor: pointer;
+}
+
+.nav-font:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,38 @@
+.app-container {
+  height: 100vh;
+  background-color: white;
+  color: black;
+  overflow: auto;
+}
+
+.content-container {
+  min-height: 85vh;
+}
+
+.main-text {
+  padding-top: 12px;
+  writing-mode: vertical-lr;
+  transform-origin: center;
+  transform: rotate(180deg);
+  font-size: 6rem;
+}
+
+@media only screen and (max-width: 768px) {
+  .main-text {
+    margin: 20px 0 12px 12px;
+    display: flex;
+    writing-mode: horizontal-tb;
+    transform: none;
+    font-size: 3rem;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  .main-text {
+    margin: 12px 0 12px 12px;
+    display: flex;
+    writing-mode: horizontal-tb;
+    transform: none;
+    font-size: 2.5rem;
+  }
+}
