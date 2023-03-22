@@ -106,7 +106,7 @@ const InteriorItem = ({
               >
                 {title}
               </Typography>
-              <Typography
+              {/* <Typography
                 fontSize={{
                   lg: 20,
                   md: 20,
@@ -118,7 +118,7 @@ const InteriorItem = ({
                 className="interior-subtext"
               >
                 {`${region}, ${size}`}
-              </Typography>
+              </Typography> */}
               <div className="interior-icons-container">
                 <Typography
                   fontSize={{

@@ -25,7 +25,7 @@ const CJresidences = () => {
       In order to optimize the spacious entrance space, we determined that a spiral staircase would be the ideal solution, with added railings to ensure the safety of any young children. Guests are greeted by a specially customized display shelf that showcases the owners' impressive bear brick collection, making it an instant masterpiece of art.
       
       In the narrow corridor, we chose to camouflage the door leading to the back of the house by using the same wall beading molding that carries the language of the entire space, creating a concealed and seamless transition. The master bathroom has also been completely revamped to achieve a luxurious hotel-like look, thanks to the new marble-look tiles that perfectly tie the space together."
-      client="Mr C"
+      client="Mr C & J"
       size="1,388 sqft including 2 balcony"
       services="Consultancy"
       markets="Residences"

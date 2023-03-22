@@ -32,7 +32,7 @@ const SNresidences = () => {
       As the couple loves to entertain and host gatherings, the dining area has been thoughtfully curated with their socializing needs in mind, accommodating the desired number of guests with ease.
       
       Another unique features of the space is the couple's impressive hype shoe collection, which has been prominently displayed in a dedicated open area with a purposely built arch like a entrance gallery. The floor tone and pattern have been carefully selected to match their comfort and preferences, creating a cohesive and personalized feel throughout the space."
-      client="Mr S"
+      client="Mr S & N"
       size="914 sqft excluding balcony"
       services="Consultancy"
       markets="Residences"
